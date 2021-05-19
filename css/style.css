@@ -1,0 +1,178 @@
+html{
+  font-family: "Montserrat", "Arial",sans-serif;
+  background-color: rgb(196, 191, 191);
+
+}
+
+.main{
+  max-width: 1440px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("../img/chap-tomon.svg");
+
+}
+
+
+.annual{
+  display: flex;
+  justify-content: center;
+
+
+
+}
+
+.annual img{
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 10px;
+}
+
+.sahifa{
+  margin-top: 40px;
+  margin-bottom: 35px;
+}
+
+.sahifa div{
+  text-align: center;
+}
+
+.flex{
+  display: flex;
+}
+
+
+
+.valuta{
+
+font-family: "Montserrat" sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 71px;
+letter-spacing: -2.16px;
+color: #000;
+margin-bottom: 32px;
+
+}
+
+.ull{
+  text-align: center;
+  justify-content: center;
+}
+
+.ull li{
+  list-style: none;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
+.hr{
+  margin-right: 55px;
+
+  width: 250px;
+
+}
+
+
+
+.for{
+  width: 390px;
+  height: 590px;
+  margin-left: 5px;
+  margin-top: 35px;
+  margin-bottom: 27px;
+  background-color: #ffffff;
+
+  color:#6E728E
+;
+
+  border-radius: 15px;
+}
+
+.for div{
+  padding-top: 50px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+
+.liii{
+  width: 300px;
+  height: 25px;
+  padding: 10px;
+  background-color:rgb(19, 54, 159);
+  color:#fff;
+  margin-right: 31px;
+  padding-top: 20px;
+  border-radius: 10px;
+  transition: background-color 1s ease,
+  color 0.8s ease;
+
+}
+
+.liii:hover{
+  background-color:#fff ;
+  color: rgb(19,54,159);
+  border: 3px solid rgb(19, 54, 159);
+}
+
+
+
+
+
+.fess{
+  width: 390px;
+  height: 630px;
+  margin-left: 5px;
+  margin-top: 15px;
+  margin-bottom: 27px;
+  background-color: rgb(17, 49, 206);
+  color: #fff;
+  border-radius: 15px;
+}
+
+.fess div{
+  padding-top: 50px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.a{
+  text-decoration: none;
+}
+
+.lii{
+  width: 300px;
+  height: 25px;
+  padding: 10px;
+  background-color: #fff;
+  color:rgb(19, 54, 159) ;
+  margin-right: 31px;
+  padding-top: 20px;
+  border-radius: 10px;
+  transition:background-color 1s ease,
+  color 0.8s ease;
+}
+.lii:hover{
+  background-color:rgb(19, 54, 159) ;
+  color:#fff;
+  border: 4px solid #fff;
+}
+
+
+.f-valuta{
+
+font-family: "Montserrat" sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 71px;
+letter-spacing: -2.16px;
+color: #fff;
+margin-bottom: 32px;
+
+}
+
+
